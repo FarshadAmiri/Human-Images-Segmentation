@@ -159,3 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 Human-Segmentation-Dataset-master/
+Test_data/
+best_model.pt
